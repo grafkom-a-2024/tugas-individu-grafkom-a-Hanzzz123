@@ -21,3 +21,10 @@ Objek Kubus yang bisa melakukan transformasi (Rotasi, Translasi, dan Skalasi) se
 
 Objek Cone yang berotasi.
 
+## **Lathe - Bowling Pin** [[demo](https://codepen.io/Hanzzz123/full/GRVKPPM)]
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/a18742af-a287-4471-96e5-3c1510a8eec7">
+
+Pengimplementasian gambar Lathe 3D berupa bowling pin dari website webglfundamental, di sini saya mengubah warna line nya menjadi biru.
+
+
