@@ -10,7 +10,7 @@ Objek Kubus yang berotasi serta menambahkan pengimplentasian texture dan kamera 
 
 Objek Kubus yang bisa melakukan transformasi (Rotasi, Translasi, dan Skalasi) serta menambahkan pengimplementasian kamera dan lighting.
 
-**Cone - 3D** [[del](https://codepen.io/Hanzzz123/full/wvVwRpp)]
+**Cone - 3D** [[demo](https://codepen.io/Hanzzz123/full/wvVwRpp)]
 
 <img width="222" alt="image" src="https://github.com/user-attachments/assets/392d9d73-4f2c-45fe-b375-c018d46b556d">
 
