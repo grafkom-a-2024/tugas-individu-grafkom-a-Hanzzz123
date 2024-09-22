@@ -1,7 +1,7 @@
 # Tugas 3
 Nama : Muhammad Farhan Dzulfikar
-NRP : 5025221011
-Kelas : Grafkom A
+  NRP : 5025221011
+  Kelas : Grafkom A
 
 ## **Cube With Texture** [[demo](https://codepen.io/Hanzzz123/full/xxvKrgJ)]
 
